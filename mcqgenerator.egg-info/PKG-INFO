@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Author: Kartheek Challa
+Author-email: challakartheek@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pypdf2
+Requires-Dist: pandas
