@@ -4,3 +4,4 @@ streamlit
 python-dotenv
 pypdf2
 pandas
+langchain-community
